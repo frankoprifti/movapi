@@ -10,7 +10,7 @@ export default class Movie extends Component {
       <div>
         <div className="App">
           <iframe
-            style={{position:absolute; width: "100%", height: "100%", borderWidth: 0 }}
+            style={{position:"absolute", width: "100%", height: "100%", borderWidth: 0 }}
             src={this.url}
             sandbox="allow-forms allow-pointer-locks allow-same-origin allow-scripts"
             allowFullScreen
