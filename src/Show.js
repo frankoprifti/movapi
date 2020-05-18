@@ -24,7 +24,6 @@ export default class Show extends Component {
             src={this.url}
             sandbox="allow-forms allow-pointer-locks allow-same-origin allow-scripts"
             allowFullScreen
-scrolling={"no"}
           />
         </div>
       </div>
