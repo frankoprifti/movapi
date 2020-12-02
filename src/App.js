@@ -1,8 +1,8 @@
 import React from "react";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
-import * as qs from "query-string";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+// import * as qs from "query-string";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./Home";
 import Movie from "./Movie";
 import Show from "./Show";
